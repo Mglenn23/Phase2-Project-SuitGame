@@ -19,8 +19,13 @@ Suit game front end created using react, bootstrap, css. backend using heroku fo
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install all scripts needed
+
 ### `npm start`
 
+After npm install
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
