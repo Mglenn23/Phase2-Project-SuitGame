@@ -1,0 +1,39 @@
+.CardNavbar {
+  color: white;
+  text-decoration: none;
+}
+
+.masthead {
+  padding-top: 25%;
+}
+#gameRow {
+  text-align: center;
+  padding-top: 50px;
+}
+#h2Game {
+  padding-top: 80px;
+}
+.card {
+  width: 18rem;
+}
+
+.containerGame {
+  margin: 1rem;
+  padding: 2rem 2rem;
+  text-align: center;
+}
+.contentGame {
+  display: inline-block;
+  border: 1px solid red;
+  padding: 1rem 1rem;
+  vertical-align: middle;
+  padding: 20px;
+}
+
+.tryAgain {
+  size: 10px;
+  width: 20%;
+}
+.howtoplay {
+  width: 70%;
+}
